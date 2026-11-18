@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2078,
   "repository": "LearningOS/2026a-arceos-laoba-01",
-  "commit": "8927f0007453fdb5cd5552401abd1426e8d0e992",
-  "score": 400,
+  "commit": "1e56f327ce53d71525706ab2b6649fc93612b263",
+  "score": 500,
   "totalScore": 600,
   "exercises": [
     {
@@ -37,22 +37,22 @@
     {
       "name": "sys_map",
       "max": 100,
-      "score": 0,
-      "status": "fail",
+      "score": 100,
+      "status": "pass",
       "exitCode": 0
     },
     {
       "name": "simple_hv",
       "max": 100,
       "score": 0,
-      "status": "timeout",
-      "exitCode": 124
+      "status": "fail",
+      "exitCode": 0
     }
   ],
   "student": "laoba-01",
-  "runId": "43885300374",
+  "runId": "44289433572",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
